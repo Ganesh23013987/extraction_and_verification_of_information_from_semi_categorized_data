@@ -151,6 +151,21 @@ http://localhost:8501
 
   .⚠️ Escalates to human review
 
+### OUTPUT:
+
+<img width="1920" height="935" alt="image" src="https://github.com/user-attachments/assets/b5f694d1-fea6-421d-8d5c-e8fb83784488" />
+<img width="1920" height="964" alt="image" src="https://github.com/user-attachments/assets/5ea1166d-9005-48fd-a3e4-83acb055e064" />
+<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/fa40b7b5-756f-41b6-8dc5-4efa8ff21f0f" />
+<img width="1920" height="972" alt="image" src="https://github.com/user-attachments/assets/51ad963c-3770-4a5b-a672-56eb2bfd677b" />
+<img width="1920" height="976" alt="image" src="https://github.com/user-attachments/assets/50b17d9a-a075-4203-b229-b493325ab8ef" />
+<img width="1920" height="908" alt="image" src="https://github.com/user-attachments/assets/7a07ead7-9784-47d6-b8d6-7c15b5a10fe3" />
+
+
+
+
+
+
+
 ### 📊 Accuracy & Performance
 
 <img width="699" height="268" alt="image" src="https://github.com/user-attachments/assets/97d88e5e-a330-4948-8014-c6024aaa957e" />
