@@ -71,7 +71,7 @@ Auto-Approval OR Human Review
 ---
 
 ## 📁 Project Structure
-
+```
 intelligent-document-verification/
 │
 ├── app.py # Streamlit frontend
@@ -88,7 +88,7 @@ intelligent-document-verification/
 │
 └── sample_docs/
 └── sample_certificate.jpg
-
+```
 
 ---
 
